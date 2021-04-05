@@ -1,0 +1,7 @@
+/* Comentario en CSS */ 
+body{
+    background-color: rgb(240, 178, 248);  
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5em; 
+}
